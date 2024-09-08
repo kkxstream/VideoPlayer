@@ -1,0 +1,71 @@
+[{
+	"name": "Kannur One",
+	"videoUrl": "http://14.102.123.50:5001/live/1514.m3u8"
+},
+{
+	"name": "Live TV Kerala",
+	"videoUrl": "http://14.102.123.50:5001/live/1966.m3u8"
+},
+{        
+	"name": "Adipoli",
+	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/7937/7937_602x224.png",
+	"videoUrl": "http://14.102.123.50:5001/live/2039.m3u8"
+},
+{
+	"name": "TNN16",
+	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/8022/8022_602x224.png",
+	"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0",
+	"videoUrl": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8"
+},
+{
+	"name": "momo",
+	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
+},
+{
+	"name": "mcot",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
+},
+{
+	"name": "one",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
+},
+{
+	"name": "TNN16",
+	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
+},
+{
+	"name": "momo",
+	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
+},
+{
+	"name": "mcot",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
+},
+{
+	"name": "one",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
+},
+{
+	"name": "one",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
+},
+{
+	"name": "TNN16",
+	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
+},
+{
+	"name": "momo",
+	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
+},
+{
+	"name": "mcot",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
+},
+{
+	"name": "one",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
+},
+{
+	"name": "Thairath",
+	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8"
+}]
