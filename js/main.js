@@ -18,10 +18,10 @@ var videoPlayer = document.getElementById('videoPlayer');
 		// Call the webservices to load the playlist
 
 		var loadPlayList = function (){
-			fetch('js/videos.json').then(function(response) {
+			fetch('js/videos.js').then(function(response) {
 
 			  if(response.ok) {
-			    return response.json();
+			    return response.js();
 			  } 
 			  throw new Error('Network response was not ok.');
 			  }).then(function(playListData) { 
